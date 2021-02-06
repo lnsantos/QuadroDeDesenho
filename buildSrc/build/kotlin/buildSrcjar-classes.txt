@@ -1,0 +1,1 @@
+C:\Users\MAIN\Desktop\Quadrodedesenho\buildSrc\build\classes\kotlin\main\ApplicationConfig.class;C:\Users\MAIN\Desktop\Quadrodedesenho\buildSrc\build\classes\kotlin\main\Depedencies.class;C:\Users\MAIN\Desktop\Quadrodedesenho\buildSrc\build\classes\kotlin\main\Versions.class
