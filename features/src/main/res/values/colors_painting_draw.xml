@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="painting_draw_default_background">#357A38</color>
+    <color name="painting_draw_default_brush">#ffffff</color>
+</resources>
+

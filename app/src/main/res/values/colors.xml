@@ -5,6 +5,7 @@
     <color name="blue_700">#0257E6</color>
     <color name="green_200">#02F0C6</color>
     <color name="green_700">#02E67D</color>
+    <color name="painting">#357A38</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 </resources>
