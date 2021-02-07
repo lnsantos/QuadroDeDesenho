@@ -8,7 +8,8 @@ class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(PaintingDrawView(this))
+        val view = PaintingDrawView(this)
+        setContentView(view)
     }
 
 }
